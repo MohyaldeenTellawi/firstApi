@@ -4,11 +4,10 @@
   "description": "myFirstApi",
   "main": "index.js",
   "scripts": {
-    
     "start": "nodemon index.js"
   },
   "engines": {
-    "node": "21.1.0"
+    "node": "18.1.0"
   },
   "author": "mohyaldeenTellawi",
   "license": "ISC",
